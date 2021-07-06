@@ -1,1 +1,0 @@
-# College-project-Chat-Application-using-Django-REST-Framework
